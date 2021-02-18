@@ -20,3 +20,14 @@ TrainingModel Toy Project
 -----
 
 2020.01.24 : 일단 시작해봄
+
+최소한의 인프라
+최소화의 언어 Python/JAVA 
+최소화의 DB  JPA 
+최소화의 CI/DI 젠킨스 
+
+어드민
+ Vue.js
+
+
+개인적으로
